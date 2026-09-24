@@ -1,6 +1,4 @@
 # StudentManagementSystem
-A Java-based student management system using OOP.
-
 A Java-based Student Management System developed as a portfolio project.
 
 ## Description
